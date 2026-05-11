@@ -2,7 +2,7 @@
 
 > Tecnologia acessível para transformar a mobilidade urbana.
 
-![Banner BusSense](https://placehold.co/1200x400/020817/00d9ff?text=BusSense+-+Mobilidade+Acess%C3%ADvel)
+![Banner BusSense](/img/grupo.png)
 
 ---
 
