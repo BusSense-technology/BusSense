@@ -40,9 +40,6 @@ O usuário recebe vibrações e sinais sonoros através de um dispositivo sem te
 
 # 🖼️ Preview do Projeto
 
-## 🌌 Manifesto BusSense
-
-![Manifesto BusSense](https://placehold.co/1200x700/020817/ffffff?text=Manifesto+BusSense)
 
 ---
 
