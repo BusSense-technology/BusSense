@@ -45,13 +45,13 @@ O usuário recebe vibrações e sinais sonoros através de um dispositivo sem te
 
 ## 📱 Interface da Plataforma
 
-![Interface BusSense](https://placehold.co/1200x700/0f172a/00d9ff?text=Interface+BusSense)
+![Interface BusSense](/img/Interface.png)
 
 ---
 
 ## 📡 Sistema Wearable
 
-![Wearable BusSense](https://placehold.co/1200x700/111827/8b5cf6?text=Tecnologia+Wearable)
+![Wearable BusSense](/img/relogio.png)
 
 ---
 
