@@ -93,9 +93,9 @@ A BusSense representa nossa visão de um futuro mais acessível através da tecn
 
 📧 [contato.bussense@gmail.com](mailto:contato.bussense@gmail.com)
 
-🔗 LinkedIn da empresa
+🔗 [Linkedin](https://www.linkedin.com/company/bussense/)
 
-🔗 GitHub Organization
+🔗 [GitHub](https://github.com/BusSense-technology)
 
 ---
 
